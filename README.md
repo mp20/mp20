@@ -1,4 +1,4 @@
-[![MasterHead](https://preview.redd.it/wejglrijyhn91.gif?width=498&auto=webp&s=a558720db477e35d1abaf8c3a739b9b1038b181f)](https://rishavchanda.io)
+[![MasterHead]([https://preview.redd.it/wejglrijyhn91.gif?width=498&auto=webp&s=a558720db477e35d1abaf8c3a739b9b1038b181f](https://64.media.tumblr.com/8d8b72eaeb9920b7de19a4866b4c18a1/e1f2c7535510a932-95/s540x810/b1d8913ea222cad6c8dac8e82e5e99fd799e1fa4.gifv))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ariya Nazari</h1>
 <h3 align="center">A Full Stack Developer studying at Georgia Institute of Technology</h3>
 
