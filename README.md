@@ -1,4 +1,4 @@
-[![MasterHead](https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif)](https://rishavchanda.io)
+[![MasterHead](https://preview.redd.it/wejglrijyhn91.gif?width=498&auto=webp&s=a558720db477e35d1abaf8c3a739b9b1038b181f)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ariya Nazari</h1>
 <h3 align="center">A Full Stack Developer studying at Georgia Institute of Technology</h3>
 
