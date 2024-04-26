@@ -12,9 +12,9 @@ Oceans of Gratitude!
 </p>
 <br>
 
-- 🔭 I’m currently working on **Spasli an Online Marketplace**
+- 🔭 I’m currently working on **Music Classification thorugh Machine Learning Algorithms like ANN**
 
-- 🌱 I’m currently learning **Redux, Spring Security**
+- 🌱 I’m currently learning **ANN,RNN,LDA,SVM, Pandas**
 
 - 📫 How to reach me **ariyanazari1380@gmail.com**
 
