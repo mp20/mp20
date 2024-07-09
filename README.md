@@ -1,4 +1,6 @@
-[![MasterHead](https://cdn.dribbble.com/users/4009357/screenshots/14087414/ezgif.com-video-to-gif__2_.gif)](https://rishavchanda.io)
+<p align="center">
+  <img src="https://github.com/mp20/mp20/blob/main/matrixGif.gif" alt="animated" />
+</p>
 <h1 align="center">Hi 👋, I'm Ariya Nazari</h1>
 <h3 align="center">A Technologist studying at Georgia Institute of Technology</h3>
 
