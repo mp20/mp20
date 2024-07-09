@@ -1,6 +1,6 @@
 [![MasterHead](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ariya Nazari</h1>
-<h3 align="center">A Full Stack Developer studying at Georgia Institute of Technology</h3>
+<h3 align="center">A Technologist studying at Georgia Institute of Technology</h3>
 
 <p>Hello and a warm welcome to my GitHub profile! I appreciate your interest and the time you've taken to explore more about me. As a rising senior at Georgia Tech, I am majoring in Computer Science with a keen focus on Artificial Intelligence and Information Networks. This unique combination has allowed me to delve into the captivating world of AI while understanding the intricate web of information flow that powers our digital world.
 
