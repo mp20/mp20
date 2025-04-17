@@ -2,21 +2,14 @@
   <img src="https://github.com/mp20/mp20/blob/main/matrixGif.gif" alt="animated" />
 </p>
 <h1 align="center">Hi 👋, I'm Ariya Nazari</h1>
-<h3 align="center">A Technologist studying at Georgia Institute of Technology</h3>
 
-<p>Hello and a warm welcome to my GitHub profile! I appreciate your interest and the time you've taken to explore more about me. As a rising senior at Georgia Tech, I am majoring in Computer Science with a keen focus on Artificial Intelligence and Information Networks. This unique combination has allowed me to delve into the captivating world of AI while understanding the intricate web of information flow that powers our digital world.
-
-Over the past few years, I've had the privilege of working on diverse projects, each one presenting its own set of challenges and learning opportunities. These experiences have not only honed my technical skills but also instilled in me a deep appreciation for the collaborative and ever-evolving nature of the tech community.
-
+<p>
 I encourage you to explore my profile. Here, you'll find a collection of my work, each project a testament to my commitment to innovation and problem-solving.
-
-Oceans of Gratitude!
 </p>
+
 <br>
 
-- 🔭 I’m currently working on **Music Classification thorugh Machine Learning Algorithms like ANN**
-
-- 🌱 I’m currently learning **ANN,RNN,LDA,SVM, Pandas**
+- 🔭 I’m currently working on building a chatbot **RAG Model** to allow manufacturing employees to quickly find solutions to maintenance issues at their facilities.
 
 - 📫 How to reach me **ariyanazari1380@gmail.com**
 
